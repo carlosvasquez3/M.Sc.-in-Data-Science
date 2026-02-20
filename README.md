@@ -1,9 +1,6 @@
 # M.Sc.-in-Data-Science
 
-Aquí tienes una versión más corta y directa para GitHub:
-
----
-
+# Porgramación Básica
 # Titanic Survival Analysis
 
 Proyecto de análisis exploratorio sobre la supervivencia de los pasajeros del Titanic utilizando Python.
@@ -14,4 +11,3 @@ Los resultados muestran que el género y la clase del pasajero fueron los factor
 
 Herramientas utilizadas: Python, Pandas, Matplotlib y Google Colab.
 
----
