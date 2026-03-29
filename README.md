@@ -1,7 +1,5 @@
 # M.Sc.-in-Data-Science
 
-# Porgramación Básica
-
 Este espacio está destinado a almacenar y organizar todos los trabajos desarrollados durante la carrera.
 
 Aquí se incluirán proyectos, ejercicios y análisis realizados en distintas asignaturas, utilizando herramientas como Python, Pandas, Matplotlib, entre otras, según lo requiera cada actividad.
