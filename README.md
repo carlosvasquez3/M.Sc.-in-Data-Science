@@ -3,11 +3,9 @@
 # Porgramación Básica
 # Titanic Survival Analysis
 
-Proyecto de análisis exploratorio sobre la supervivencia de los pasajeros del Titanic utilizando Python.
+Este espacio está destinado a almacenar y organizar todos los trabajos desarrollados durante la carrera.
 
-Se realizó limpieza y preparación de datos, cálculo de tasas de supervivencia por género, clase, edad y puerto de embarque, y visualización de resultados.
+Aquí se incluirán proyectos, ejercicios y análisis realizados en distintas asignaturas, utilizando herramientas como Python, Pandas, Matplotlib, entre otras, según lo requiera cada actividad.
 
-Los resultados muestran que el género y la clase del pasajero fueron los factores con mayor impacto en la probabilidad de supervivencia.
-
-Herramientas utilizadas: Python, Pandas, Matplotlib y Google Colab.
+El objetivo es centralizar el contenido académico y llevar seguimiento del aprendizaje y evolución a lo largo del programa.
 
