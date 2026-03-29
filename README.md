@@ -1,7 +1,6 @@
 # M.Sc.-in-Data-Science
 
 # Porgramación Básica
-# Titanic Survival Analysis
 
 Este espacio está destinado a almacenar y organizar todos los trabajos desarrollados durante la carrera.
 
